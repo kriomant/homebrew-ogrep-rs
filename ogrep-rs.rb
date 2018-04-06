@@ -1,8 +1,8 @@
 class OgrepRs < Formula
   desc "Outline grep — search in indentation-structured texts (Rust version)"
   homepage "https://github.com/kriomant/ogrep-rs"
-  url "https://github.com/kriomant/ogrep-rs/archive/0.2.1.tar.gz"
-  sha256 "79e887abba1f683829ad73102ab2a79e931674c27437975d5f28162568a9a383"
+  url "https://github.com/kriomant/ogrep-rs/archive/0.3.0.tar.gz"
+  sha256 "c2358cde5061339084fe86a7454b67106eff73fc585c696a57cf0e24cfdb586e"
   head "https://github.com/kriomant/ogrep-rs.git"
 
   depends_on "rust" => :build
